@@ -1,7 +1,7 @@
 
 ### 1. Set up your GIPHY API Key into a file - local.env
 * sign up for a GIPHY Acount
-* get a developer key
+* get a developer key (https://developers.giphy.com/dashboard/)
 * paste your key into the first line of local.env
 
 ### 2. Add a form to search_page.erb
